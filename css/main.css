@@ -168,7 +168,7 @@ table th { color: #363636; }
 
 @media screen and (min-width: 1024px) { .is-size-1-desktop { font-size: 3rem !important; }
   .is-size-2-desktop { font-size: 2.5rem !important; }
-  .is-size-3-desktop { font-size: 2rem !important; }
+  /* .is-size-3-desktop { font-size: 2rem !important; } */
   .is-size-4-desktop { font-size: 1.5rem !important; }
   .is-size-5-desktop { font-size: 1.25rem !important; }
   .is-size-6-desktop { font-size: 1rem !important; }
@@ -2593,7 +2593,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 
 .navbar-item { display: block; -webkit-box-flex: 0; flex-grow: 0; flex-shrink: 0; }
 
-.navbar-item img { max-height: 1.75rem; }
+/* .navbar-item img { max-height: 1.75rem; } */
 
 .navbar-item.has-dropdown { padding: 0; }
 
@@ -3904,7 +3904,7 @@ a:hover { color: #6d10ff; }
 
 .navbar .navbar-brand a.navbar-item:hover { background-color: transparent; }
 
-.navbar .navbar-brand a.navbar-item img { max-height: 3rem; }
+/* .navbar .navbar-brand a.navbar-item img { max-height: 3rem; } */
 
 .navbar .navbar-brand .navbar-burger { height: inherit; }
 
